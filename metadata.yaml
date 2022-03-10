@@ -5,6 +5,9 @@ contributor:
     agent_name: Coffin, Fred M.
     gutenberg_agent_id: '54335'
     url: http://www.gutenberg.org/2009/agents/54335
+covers:
+- cover_type: archival
+  image_path: 67570-h/images/cover.jpg
 creator:
   author:
     agent_name: Fern, Fanny
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9387
     wikipedia: https://en.wikipedia.org/wiki/Fanny_Fern
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67570#The-Play-day-Book-New-Stories-for-Little-Folks
 gutenberg_issued: '2022-03-06'
 identifiers:
   gutenberg: '67570'
